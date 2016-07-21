@@ -1,0 +1,31 @@
+/*.arrow {
+  position: absolute; 
+  top: 40px; 
+  right: 230px;
+}
+*/
+body{
+	background-image: url("background.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #F35B62;
+}
+
+.arrow{
+  position: absolute;
+  bottom: 5%;
+  left: 46%;
+}
+/*.arrow p {
+  margin: 0 }
+*/
+/*.background{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-size: contain;
+	background-color: #F35B62;
+}
+*/
